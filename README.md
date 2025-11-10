@@ -31,27 +31,27 @@ Resource yang digunakan sesuai digit akhir NIM (3) yaitu **students**, dengan fi
 
 ## Struktur Folder
 UTS-WSE-230104040203
-UTS-WSE-230104040203
 │
-├── app.js                         # Entry point server
-├── package.json                   # Konfigurasi npm
-├── README.md                      # Dokumentasi project (wajib)
+├── app.js
+├── package.json
+├── README.md
 │
-├── controllers                    # Logic CRUD
+├── controllers
 │   └── studentsController.js
 │
-├── routes                         # Routing endpoint
+├── routes
 │   └── studentsRoutes.js
 │
-├── data                           # Data dummy (tanpa database)
+├── data
 │   └── students.js
 │
-└── screenshot-postman             # Folder hasil uji di Postman (wajib screenshot)
-    ├── get-all.png                # GET /api/students
-    ├── get-by-id.png              # GET /api/students/:id
-    ├── post-add.png               # POST /api/students
-    ├── put-update.png             # PUT /api/students/:id
-    └── delete.png                 # DELETE /api/students/:id
+└── screenshot-postman
+    ├── get-all.png
+    ├── get-by-id.png
+    ├── post-add.png
+    ├── put-update.png
+    └── delete.png
+
 
 ---
 

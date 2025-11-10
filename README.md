@@ -106,10 +106,10 @@ Lampirkan 5 screenshot:
 ### 3. POST Tambah Mahasiswa (`POST /api/students`)
 ![POST Tambah](./screenshot-postman/post-add.png)
 
-### 4. PUT Update Mahasiswa (`PUT /api/students/1`)
+### 4. PUT Update Mahasiswa (`PUT /api/students/3`)
 ![PUT Update](./screenshot-postman/put-update.png)
 
-### 5. DELETE Hapus Mahasiswa (`DELETE /api/students/1`)
+### 5. DELETE Hapus Mahasiswa (`DELETE /api/students/3`)
 ![DELETE](./screenshot-postman/delete.png)
 
 ---

@@ -53,21 +53,12 @@ UTS-WSE-230104040203
 ├── data
 │   └── students.js
 │
-<<<<<<< HEAD
-└── screenshot-postman             # Folder hasil uji di Postman (wajib screenshot)
-    ├── get-all.png                # GET /api/students
-    ├── get-by-id.png              # GET /api/students/:1
-    ├── post-add.png               # POST /api/students
-    ├── put-update.png             # PUT /api/students/:3
-    └── delete.png                 # DELETE /api/students/:3
-=======
 └── screenshot-postman
     ├── get-all.png
     ├── get-by-id.png
     ├── post-add.png
     ├── put-update.png
     └── delete.png
->>>>>>> 2b4de2d2a8e1d0e64c1de6dc7cb4bb7b59c554ea
 ```
 
 ---
@@ -207,13 +198,16 @@ http://localhost:3000/api/info
 ### 2. GET Data Berdasarkan ID
 ![GET By ID](./screenshot-postman/get-by-id.png)
 
-### 3. POST Tambah Mahasiswa
+### 3. POST Tambah Mahasiswa (Berhasil)
 ![POST Tambah](./screenshot-postman/post-add.png)
 
-### 4. PUT Update Mahasiswa
+### 4. POST Tambah Mahasiswa (Gagal)
+![POST Tambah](./screenshot-postman/post-gagal.png)
+
+### 5. PUT Update Mahasiswa
 ![PUT Update](./screenshot-postman/put-update.png)
 
-### 5. DELETE Hapus Mahasiswa
+### 6. DELETE Hapus Mahasiswa
 ![DELETE](./screenshot-postman/delete.png)
 
 ---

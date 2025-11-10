@@ -30,6 +30,9 @@ Resource yang digunakan sesuai digit akhir NIM (3) yaitu **students**, dengan fi
 ---
 
 ## Struktur Folder
+
+
+```
 UTS-WSE-230104040203
 │
 ├── app.js
@@ -51,6 +54,7 @@ UTS-WSE-230104040203
     ├── post-add.png
     ├── put-update.png
     └── delete.png
+```
 
 
 ---

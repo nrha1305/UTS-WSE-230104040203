@@ -30,6 +30,8 @@ Resource yang digunakan sesuai digit akhir NIM (3) yaitu **students**, dengan fi
 ---
 
 ## Struktur Folder
+
+```
 UTS-WSE-230104040203
 │
 ├── app.js                         # Entry point server
@@ -51,6 +53,7 @@ UTS-WSE-230104040203
     ├── post-add.png               # POST /api/students
     ├── put-update.png             # PUT /api/students/:3
     └── delete.png                 # DELETE /api/students/:3
+```
 
 ---
 
